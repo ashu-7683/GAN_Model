@@ -1,8 +1,3 @@
-
-## 3. Linear Regression Project
-
-### linear-regression/README.md
-```markdown
 # Linear Regression - Medical Charges Prediction
 
 Simple linear regression model to predict medical charges based on Body Mass Index (BMI).
